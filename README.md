@@ -1,7 +1,7 @@
 # L2-regularized Linear Regression via Stochastic Gradient Descent
 
 Trained a 2-layer neural network (i.e., linear regression) for age regression
-The training data was split 80:20 for training and validation. The hyperparameters and optimized weights are the evaluated on the network on the test set. 
+The training data was split 80:20 for training and validation. The hyperparameters and optimized weights are then evaluated on the network on the test set. 
 
 The training and testing data are available here:
 
