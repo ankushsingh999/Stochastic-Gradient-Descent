@@ -3,6 +3,16 @@
 Trained a 2-layer neural network (i.e., linear regression) for age regression
 The training data was split 80:20 for training and validation. The hyperparameters and optimized weights are the evaluated on the network on the test set. 
 
+The training and testing data are available here:
+
+•https://s3.amazonaws.com/jrwprojects/age_regression_Xtr.npy
+
+•https://s3.amazonaws.com/jrwprojects/age_regression_ytr.npy
+
+•https://s3.amazonaws.com/jrwprojects/age_regression_Xte.npy
+
+•https://s3.amazonaws.com/jrwprojects/age_regression_yte.npy
+
 Used stochastic gradient descent (SGD). The following hyperparameters were choosen:
 
 •Mini-batch size  ̃n.
